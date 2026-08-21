@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FTAnimation_Tests' do
+  pod 'FTAnimation', :path => '../'
+  
+  
+end
